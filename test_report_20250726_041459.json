@@ -1,0 +1,97 @@
+{
+  "total_tests": 15,
+  "passed": 15,
+  "failed": 0,
+  "details": [
+    {
+      "test": "Backend Bağlantısı",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-07-26T04:14:33.660903"
+    },
+    {
+      "test": "Frontend Bağlantısı",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-07-26T04:14:33.664820"
+    },
+    {
+      "test": "Dubai Ödül Limiti",
+      "success": true,
+      "details": "Limit henüz dolmadı: 0/100000",
+      "timestamp": "2025-07-26T04:14:35.720017"
+    },
+    {
+      "test": "Kullanıcı Oluşturma",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-07-26T04:14:37.784581"
+    },
+    {
+      "test": "Kart Çekme (Index: 8)",
+      "success": true,
+      "details": "Result: retry",
+      "timestamp": "2025-07-26T04:14:39.837841"
+    },
+    {
+      "test": "Kart Çekme (Index: 2)",
+      "success": true,
+      "details": "Result: retry",
+      "timestamp": "2025-07-26T04:14:42.376666"
+    },
+    {
+      "test": "Kart Çekme (Index: 8)",
+      "success": true,
+      "details": "Result: prize",
+      "timestamp": "2025-07-26T04:14:44.935673"
+    },
+    {
+      "test": "Form Gönderimi",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-07-26T04:14:46.982213"
+    },
+    {
+      "test": "Admin Paneli Erişimi",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-07-26T04:14:49.029528"
+    },
+    {
+      "test": "Admin Panelinde Form Listesi",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-07-26T04:14:49.029652"
+    },
+    {
+      "test": "Kullanıcı Oluşturma",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-07-26T04:14:51.077420"
+    },
+    {
+      "test": "Kart Çekme (Index: 6)",
+      "success": true,
+      "details": "Result: retry",
+      "timestamp": "2025-07-26T04:14:53.122715"
+    },
+    {
+      "test": "Kart Çekme (Index: 7)",
+      "success": true,
+      "details": "Result: prize",
+      "timestamp": "2025-07-26T04:14:55.182247"
+    },
+    {
+      "test": "Kullanıcı Oluşturma",
+      "success": true,
+      "details": "",
+      "timestamp": "2025-07-26T04:14:57.237855"
+    },
+    {
+      "test": "Kart Çekme (Index: 4)",
+      "success": true,
+      "details": "Result: prize",
+      "timestamp": "2025-07-26T04:14:59.274415"
+    }
+  ]
+}
